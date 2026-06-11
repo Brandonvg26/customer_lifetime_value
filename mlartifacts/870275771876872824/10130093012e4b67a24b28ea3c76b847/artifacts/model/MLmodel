@@ -1,0 +1,31 @@
+artifact_path: model
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.11.5
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 2.1.1
+mlflow_version: 2.16.2
+model_size_bytes: 608546
+model_uuid: 1fc22bb323d44aa4aa2c70a02334914b
+run_id: 10130093012e4b67a24b28ea3c76b847
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "Recency", "required": true}, {"type": "long",
+    "name": "Frequency", "required": true}, {"type": "double", "name": "Monetary",
+    "required": true}]'
+  outputs: '[{"type": "float", "required": true}]'
+  params: null
+utc_time_created: '2026-06-10 17:43:22.704264'
