@@ -1,6 +1,6 @@
-{
- "cells": [],
- "metadata": {},
- "nbformat": 4,
- "nbformat_minor": 5
-}
+# .gitattributes
+* text=auto eol=lf
+*.ipynb text eol=lf
+*.py    text eol=lf
+*.md    text eol=lf
+*.yml   text eol=lf
