@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870275771876872824/86f65a877fd4441f8cab56c8db37e5fa/artifacts
+end_time: 1781114631282
+entry_point_name: ''
+experiment_id: '870275771876872824'
+lifecycle_stage: active
+run_id: 86f65a877fd4441f8cab56c8db37e5fa
+run_name: xgb-clv-baseline
+run_uuid: 86f65a877fd4441f8cab56c8db37e5fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781114626706
+status: 3
+tags: []
+user_id: brand

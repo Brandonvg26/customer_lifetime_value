@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1781114630948
+current_stage: None
+description: ''
+last_updated_timestamp: 1781114630948
+name: CLVPredictor
+run_id: 86f65a877fd4441f8cab56c8db37e5fa
+run_link: ''
+source: mlflow-artifacts:/870275771876872824/86f65a877fd4441f8cab56c8db37e5fa/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/870275771876872824/86f65a877fd4441f8cab56c8db37e5fa/artifacts/model
+user_id: null
+version: 3

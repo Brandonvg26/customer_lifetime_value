@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870275771876872824/6c4c307309b54fe2b0c4226dd23e37f3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '870275771876872824'
+lifecycle_stage: active
+run_id: 6c4c307309b54fe2b0c4226dd23e37f3
+run_name: shivering-dog-938
+run_uuid: 6c4c307309b54fe2b0c4226dd23e37f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781114967874
+status: 1
+tags: []
+user_id: brand
